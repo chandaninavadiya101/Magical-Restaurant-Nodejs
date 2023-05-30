@@ -1,0 +1,5 @@
+{
+    "jwtSecretKey": "9098",
+    "port": 3000,
+    "saltRounds": 10
+}
