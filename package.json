@@ -1,0 +1,18 @@
+{
+  "name": "magical_restaurant",
+  "version": "1.0.0",
+  "description": "cyberdest assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "chandani",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "jsonwebtoken": "^9.0.0",
+    "pg": "^8.11.0"
+  }
+}
